@@ -1,3 +1,44 @@
+# 독거노인을 위한 건강관리 어플리케이션
+
+### 프로젝트 이름 
+온라인 학습 관리 및 코딩실습 환경 프로그램
+
+### 목적   
+코로나19로 인해 학교에 가는 것이 불가능해진 학생들을 위한
+온라인 학습 관리 및 실습 환경을 제공하는 프로그램을 개발하여 학생들에게 도움을 주는 것을 목적으로 한다.
+
+### 기능 
+1. 로그인/회원가입
+2. 강의실 조회 
+3. 강의 개설/신청/폐강
+4. 강의 정보 수정
+5. 질문 생성/수정/답변
+6. 실시간 채팅방(socket.io)
+7. 출석 정보 수정/확인/자동 체크
+    
+
+### 실행 이미지   
+frontUI_onlinepratice.pptx파일 확인
+
+
+
+### 개발환경  
+- react
+- node js
+- socket.io
+- aws
+
+### 실행방법
+1. 파일을 다운받으세요.
+2. 필요한 모듈들을 모두 설치하시고, npm start 
+    
+### 문의  
+문의 사항이 있다면 이메일을 보내주세요.  
+권예진 kwon990928@naver.com  
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -36,33 +77,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
