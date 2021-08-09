@@ -19,7 +19,7 @@
     
 
 ### 실행 이미지   
-frontUI_onlinepratice.pptx파일 확인
+frontUI_onlinepratice.pdf파일 확인
 
 
 
